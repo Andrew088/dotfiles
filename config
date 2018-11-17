@@ -1,0 +1,14 @@
+Host caen1
+HostName oncampus-course.engin.umich.edu
+Port 22
+User wangandr
+
+Host caen2
+HostName login-course.engin.umich.edu
+Port 22
+User wangandr
+
+Host github
+HostName github.com
+User git
+IdentityFile ~/.ssh/id_rsa
